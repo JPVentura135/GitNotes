@@ -7,7 +7,8 @@ Created on February 22, 2017 by Jean-Paul Ventura
 
 # Creating GitHub Repo via command line using existing directory:
 
-1.) Create a new repository on GitHub. To avoid errors, do not initialize 		the new repository with README, license, or gitignore files. You can add 
+1.) Create a new repository on GitHub. To avoid errors, do not initialize
+	the new repository with README, license, or gitignore files. You can add 
 	these files after your project has been pushed to GitHub.
 
 2.) Open Terminal.
